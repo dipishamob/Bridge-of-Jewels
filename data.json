@@ -4826,7 +4826,7 @@
                 ["HTP"],
                 [],
                 [
-                  "WHEN THE BRIDGE IS THE PROPER SIZE,TAP THE SCREEN TO NAVIGATE TO THE OPPOSITE SIDE.",
+                  "TAP THE SCREEN TO GO TO THE OTHER SIDE WHEN THE BRIDGE IS THE RIGHT SIZE.",
                   false,
                   64,
                   64,
@@ -8831,7 +8831,7 @@
             1,
             "HowToPlay",
             1,
-            "WHEN THE BRIDGE IS THE PROPER SIZE,TAP THE SCREEN TO NAVIGATE TO THE OPPOSITE SIDE.",
+            "TAP THE SCREEN TO GO TO THE OTHER SIDE WHEN THE BRIDGE IS THE RIGHT SIZE.",
             false,
             false,
             842858382968874,
